@@ -10,10 +10,6 @@ class Solution:
         return(min, max)            
 
 
-
-
-
-
 if __name__ =="__main__":
     user_input = list(map(int , input("enter your number by space  : ").split()))
     print("original array :", user_input)
